@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @raghul3
-- 👀 I’m interested in coding and stuff
-- 🌱 I’m currently learning ahead for graduating B.TECH Information Technology
-- 📫 How to reach me ...a='Raghul'
-                         print('a')
+- 👋 Hi there, I’m @raghul
                          
 
 <!---
