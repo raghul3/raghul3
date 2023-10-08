@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **raghul13003@gmail.com**
 
+ [![An image of @raghul3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghul3)](https://holopin.io/@raghul3)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
