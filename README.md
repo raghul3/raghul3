@@ -1,14 +1,12 @@
 <h1 align="left">Hey there!</h1>
 
 ###
-
 <br clear="both">
-
 <p align="left" style="font-size: 50px;">I'm a digital explorer, journeying through the vast landscapes of technology with boundless curiosity. Proficient in the dialects of code and frameworks. With a relentless drive for growth, I eagerly embrace each challenge as an opportunity to thrive in the dynamic world of tech.</p>
 
 ###
 
-<p align="left">"The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life." - Bill Gates</b></p>
+<p align="left">"The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life." - Bill Gates</strong></p>
 
 ###
 
