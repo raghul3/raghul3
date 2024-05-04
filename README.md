@@ -2,7 +2,10 @@
 
 ###
 <br clear="both">
-<p align="left" style="font-size: 18px;">I'm a digital explorer, journeying through the vast landscapes of technology with boundless curiosity. Proficient in the dialects of code and frameworks. With a relentless drive for growth, I eagerly embrace each challenge as an opportunity to thrive in the dynamic world of tech.</p>
+<p align="left" style="font-size: 18px;">I'm a digital explorer, journeying through the vast landscapes of technology with boundless curiosity. Proficient in the dialects of code and frameworks. With a relentless drive for growth, I eagerly embrace each challenge as an opportunity to thrive in the dynamic world of tech.
+
+Mail at - raghul13003@gmail.com
+</p>
 
 ###
 
