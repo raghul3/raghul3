@@ -27,6 +27,8 @@ Mail at - raghul13003@gmail.com
   <img width="12" />
   <img width="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="Apache Spark" title="Apache Spark"/>
   <img width="12" />
+  <img src="https://github.com/raghul3/raghul3/assets/81759525/2759af8f-10d2-4fe4-a024-9ab060780aaf" height="40" alt="airflow logo"  />
+  <img width="12" />
   <img src = "https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="50" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -38,12 +40,7 @@ Mail at - raghul13003@gmail.com
   <img width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="MSSQL" title="MSSQL"/>
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-
+  <img width="12" />  
 
 
 
